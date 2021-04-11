@@ -34,12 +34,7 @@ serverside.xyz
 ## Install
 
 ```bash
-npm install request
-npm install steamcommunity
-npm install colors
-npm install readline
-npm install cheerio
-npm install got
+npm install
 ```
 
 ## Usage
